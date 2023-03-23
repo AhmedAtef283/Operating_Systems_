@@ -1,1 +1,3 @@
-
+# Interface With Arduino Project make you Control Arduino Board using JavaFx GUI 
+Project Idea is to Control electrical components like LEDS , send / recieve data from arduino board using graphical user interdace (GUI) from JavaFX 
+this project control leds  , write on Arduino LCD  , get data from potentionmeter.
